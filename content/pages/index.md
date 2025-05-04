@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: 'Real Business Results - Strategic Solutions - AI Automated '
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Equipped with a very special set of skills, our custom trained ai agents
+      develop deep research and insights into your specific market and generate
+      stunning custom content and brand messaging to fuel your new automated ai
+      marketing director.
     actions:
       - label: Get started
         altText: ''
